@@ -32,7 +32,7 @@ const projectsData = [
   {
     id: 3,
     title: "Sistema de Agendamento Médico",
-    description: "A productivity application for managing tasks and projects with team collaboration features.",
+    description: "Este é um projeto completo de um sistema de agendamento de consultas médicas. O sistema permite que usuários se cadastrem, façam login, e agendem ou gerenciem suas consultas médicas de forma simples e intuitiva.",
     tags: ["React", "Express", "Node.js", "Tailwind CSS"],
     githubUrl: "https://github.com/JoaoGui1430/sistema-agendamento-medico",
     liveUrl: null, // sem deploy
