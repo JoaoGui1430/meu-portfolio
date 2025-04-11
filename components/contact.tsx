@@ -29,8 +29,11 @@ export function Contact() {
             </div>
             <div>
               <h3 className="text-lg font-medium mb-1">Phone</h3>
+              <h3 className="text-lg font-medium mb-1">WhatsApp</h3>
               <a
-                href="tel:+SEU_NUMERO_AQUI"
+                href="https://wa.me/5585992144530."
+                target="_blank"
+                rel="noopener noreferrer"
                 className="text-zinc-400 hover:text-cyan-400 transition-colors flex items-center"
               >
                 +55 (85) 99214-4530
