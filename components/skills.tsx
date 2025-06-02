@@ -44,7 +44,7 @@ export function Skills() {
       category: "backend",
     },
     {
-      name: "Databases",
+      name: "MySQL",
       icon: <Database className="h-10 w-10 text-cyan-400" />,
       category: "backend",
     },
