@@ -13,12 +13,12 @@ import { ExternalLink, Github } from "lucide-react";
 const projectsData = [
   {
     id: 1,
-    title: "Site De Revenda e Venda de Veiculos",
-    description: "Este é um projeto de um site para revenda de veículos, desenvolvido com foco em apresentar veículos disponíveis para venda, com uma interface moderna e responsiva.",
-    tags: ["HTML", "JavaScript", "CSS"],
-    githubUrl: "https://github.com/JoaoGui1430/SiteRevendaVeiculos",
-    liveUrl: "https://site-revenda-veiculos.vercel.app",
-    image: "/siterevendaveiculos.png",
+    title: "CRUD utilizando Flask",
+    description: "sistema CRUD (Create, Read, Update, Delete) para gerenciar missões espaciais",
+    tags: ["Python", "Flask", "HTML", "CSS"],
+    githubUrl: "https://github.com/JoaoGui1430/CRUD_flask",
+    liveUrl: null, // sem deploy
+    image: "/CRUD_FLASK.png",
   },
   {
     id: 2,
