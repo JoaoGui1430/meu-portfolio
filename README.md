@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Meu Portfólio
 
-## Getting Started
+Este é o repositório do meu **portfólio pessoal**, desenvolvido para apresentar minhas habilidades, experiências e projetos como **Desenvolvedor Back End**.  
+O site foi construído com foco em **performance**, **responsividade** e **design moderno**.
 
-First, run the development server:
+🔗 **Acesse o portfólio online:** [meu-portfolio-seven-sigma.vercel.app](https://meu-portfolio-seven-sigma.vercel.app)
 
+---
+
+## 🚀 Tecnologias utilizadas
+- **[Next.js](https://nextjs.org/)** — Framework React para aplicações modernas e otimizadas.
+- **TypeScript** — Tipagem estática para maior segurança no desenvolvimento.
+- **Tailwind CSS** — Estilização rápida e responsiva.
+- **Lucide Icons** — Biblioteca de ícones leves e personalizáveis.
+- **Vercel** — Deploy e hospedagem do site.
+
+---
+
+## 📂 Estrutura do projeto
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+.
+├── app/                # Páginas e roteamento do Next.js
+├── components/         # Componentes reutilizáveis (Hero, Projects, Skills, etc.)
+├── public/             # Arquivos estáticos (imagens, SVGs, PDFs)
+├── styles/             # Estilização global
+├── package.json        # Dependências do projeto
+└── README.md           # Documentação
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👤 Sobre o Projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Este projeto foi desenvolvido como parte dos meus estudos em **Next.js** e **desenvolvimento front-end moderno**, com o objetivo de criar um **portfólio pessoal** responsivo, rápido e visualmente atraente, para apresentar minhas habilidades, experiências e projetos.  
+O site conta com componentes reutilizáveis, estilização com **Tailwind CSS**, ícones da **Lucide Icons** e foi hospedado na **Vercel**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📄 Licença
 
-To learn more about Next.js, take a look at the following resources:
+Este projeto está sob a licença MIT. Sinta-se livre para usar, estudar e adaptar para seus próprios fins.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ✨ Autor
 
-## Deploy on Vercel
+Feito com 💻 por **João Guilherme**  
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+[![GitHub](https://img.shields.io/badge/GitHub-gray?logo=github&style=flat-square)](https://github.com/JoaoGui1430)
