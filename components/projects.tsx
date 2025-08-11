@@ -12,7 +12,16 @@ import { ExternalLink, Github } from "lucide-react";
 
 const projectsData = [
   {
-    id: 1,
+  id: 1,
+  title: "Sistema de Gerenciamento de Estoque", 
+  description: "API REST completa com autenticação JWT para controle de produtos em estoque", 
+  tags: ["Java", "Spring Boot", "Spring Security", "JWT", "MySQL", "Hibernate","Swagger UI"], 
+  githubUrl: "https://github.com/JoaoGui1430/gerenciamento-estoque", 
+  liveUrl: null, //sem deploy
+  image: "/gerenciamento_estoque.png", 
+},
+  {
+    id: 2,
     title: "CRUD utilizando Flask",
     description: "sistema CRUD (Create, Read, Update, Delete) para gerenciar missões espaciais",
     tags: ["Python", "Flask", "HTML", "CSS"],
@@ -21,7 +30,7 @@ const projectsData = [
     image: "/CRUD_FLASK.png",
   },
   {
-    id: 2,
+    id: 3,
     title: "API de Produtos para E-commerce",
     description: "Este é um projeto de backend para um sistema de e-commerce, responsável por gerenciar produtos.",
     tags: ["Node.js", "Express", "MongoDB"],
@@ -30,7 +39,7 @@ const projectsData = [
     image: "/api_ecommerce.png",
   },
   {
-    id: 3,
+    id: 4,
     title: "Sistema de Agendamento Médico",
     description: "Este é um projeto completo de um sistema de agendamento de consultas médicas. O sistema permite que usuários se cadastrem, façam login, e agendem ou gerenciem suas consultas médicas de forma simples e intuitiva.",
     tags: ["React", "Express", "Node.js", "Tailwind CSS"],

@@ -7,6 +7,7 @@ import {
   Server,
   GitBranch,
   Layers,
+  Coffee,
   Braces,
   Terminal,
 } from "lucide-react"
@@ -43,6 +44,11 @@ export function Skills() {
       icon: <Server className="h-10 w-10 text-cyan-400" />,
       category: "backend",
     },
+    {
+  name: "Java",
+  icon: <Coffee className="h-10 w-10 text-cyan-400" />,
+  category: "backend",
+    }, 
     {
       name: "MySQL",
       icon: <Database className="h-10 w-10 text-cyan-400" />,
