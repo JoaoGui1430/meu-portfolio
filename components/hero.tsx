@@ -22,7 +22,7 @@ export function Hero() {
 
         <div className="flex flex-wrap justify-center gap-4 mb-12">
           
-          <Link href="/Currículo-JoãoGuilherme-estagio.pdf" target="_blank" rel="noopener noreferrer" download>
+          <Link href="/Currículo-JoãoGuilherme.pdf" target="_blank" rel="noopener noreferrer" download>
         <Button variant="outline" className="bg-zinc-800 border-zinc-700 text-white hover:bg-zinc-700">
           Download CV
         </Button>
